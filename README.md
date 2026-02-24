@@ -5,7 +5,7 @@
 #😎 Roxel John Bangian
 ### Mobile App Developer • Full-Stack Web Developer 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+DailyFur+Mobile+App;Android+Developer+from+Philippines;Future+AI+Engineer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+DailyFur+Mobile+App;Full-Stack+Developer+from+Philippines;Future+AI+Engineer&center=true&width=500&height=45">
 
 </div>
 
