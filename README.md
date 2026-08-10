@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600">
 
 #😎 Roxel John Bangian
-### Mobile App Developer • Full-Stack Web Developer 
+### Full-Stack Web Developer 
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+DailyFur+Mobile+App;Full-Stack+Developer+from+Philippines;Future+AI+Engineer&center=true&width=500&height=45">
 
@@ -54,7 +54,7 @@ Built using **Kotlin + Firebase + Android Studio**
 ## 🚀 Featured Projects
 - 🐶 **DailyFur-MobileApp** – Veterinary consultation system  
 - 🛒 **shopnub** – Laravel ecommerce system  
-- 📒 **SlamBook Kotlin App** – Android student project  
+- 📒 **SlamBook Kotlin App** – Android project Systemm 
 - 🌐 **Portfolio Website** – Personal developer site  
 
 ---
