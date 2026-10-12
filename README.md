@@ -118,7 +118,7 @@ Git • GitHub • Figma • VS Code
 | Project | What it does | Stack |
 |---|---|---|
 | 🐶 [**DailyFur**](https://github.com/RoxelJohnBangi-an/DailyFur-MobileApp) | Veterinary consultation mobile app | Kotlin · Firebase |
-| 🛒 [**shopnub**](https://github.com/RoxelJohnBangi-an/shopnub) | E-commerce system | Laravel · MySQL |
+| 🛒 [**shophub**](https://github.com/RoxelJohnBangi-an/shophub) | E-commerce system | Laravel · MySQL |
 | 📒 [**SlamBook**](https://github.com/RoxelJohnBangi-an) | Digital slam book Android app | Kotlin |
 | 🌐 **Portfolio** | Personal developer site | HTML · CSS · JS |
 
