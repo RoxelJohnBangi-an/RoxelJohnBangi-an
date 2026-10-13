@@ -8,7 +8,7 @@
 :,.:;;iii;;i11ti;;:,,,...,,;iiii1111;i11ii
 ::,:iii1iii11i:.              .,1tt1i1111i
 ;::;11i1t1;,...     .,::::,.     it111t111
-i::itt1ti.     .;itLCCCCCLf1i:    ;1ffffft   roxel@bangi-an
+i::itt1ti.     .;itLCCCCCLf1i:    ;1ffffft   Roxel John Bangi-an
 i;;iftt:  .:itLG08@@8@8800GCf1:,.  .tCCLCf   -------------------------------------
 i;i1Lt:  :1C08888888888880GGCft1i,   1GLLf   Role ........ Android & Web Developer
 ti11f: .;CGG08@@@@@88@888880GLfti:.   iLCf   Education ... BSIT
