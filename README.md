@@ -4,6 +4,7 @@
 
 </div>
 
+```
 :,.:;;iii;;i11ti;;:,,,...,,;iiii1111;i11ii
 ::,:iii1iii11i:.              .,1tt1i1111i
 ;::;11i1t1;,...     .,::::,.     it111t111
@@ -31,6 +32,7 @@ t:.;LfLLG08@80GCGG000GCti::fCLf1;,:;;CG0GC   Exploring ... Clean Architecture
 ,.,;1i: :G088GGG00Cfti;,,.,...  ..   .....
 , ,::. .fC0880G00000GLft11t11i:       .,..
 . ,,.. iCC0888G0000GCLfffLCLf1i:::,.
+```
 
 <div align="center">
 
